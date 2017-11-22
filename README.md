@@ -10,4 +10,4 @@
 
 ####  JavaScript
 
-1.  [JS内存空间与执行环境](/JavaScript/内存空间与执行环境.md)
+1.  [JS内存空间与执行环境](/JavaScript/JS内存空间与执行环境.md)
